@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "role": "Marketing Specialist",
+    "img": "../Imgs/Epic1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "role": "Customer Support",
+    "img": "../Imgs/Epic2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mike Johnson",
+    "role": "Operations Manager",
+    "img": "../Imgs/Epic3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Lana Harper",
+    "role": "CEO",
+    "img": "../Imgs/Epic4.jpg"
+  }
+]

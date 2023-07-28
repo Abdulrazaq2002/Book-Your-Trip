@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Deccan Hotel",
+    "city": "Hyderabad",
+    "price": 1000,
+    "image": "./Imgs/Hotel1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Hotel Royal",
+    "city": "Delhi",
+    "price": 2000,
+    "image": "./Imgs/Hotel2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hotel Nizam",
+    "city": "Hyderabad",
+    "price": 3500,
+    "image": "./Imgs/Hotel3.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Hotel Victoria",
+    "city": "Delhi",
+    "price": 3000,
+    "image": "./Imgs/Hotel4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Marin Drive Hotel",
+    "city": "Mumbai",
+    "price": 1500,
+    "image": "./Imgs/Hotel5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Hotel Pink",
+    "city": "Jaipur",
+    "price": 2500,
+    "image": "./Imgs/Hotel6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Lalit Hotel",
+    "city": "Mumbai",
+    "price": 1800,
+    "image": "./Imgs/Hotel7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Hotel Queen",
+    "city": "Jaipur",
+    "price": 2700,
+    "image": "./Imgs/Hotel8.jpg"
+  }
+]

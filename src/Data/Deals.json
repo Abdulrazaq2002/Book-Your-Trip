@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "../Imgs/Charminar.jpg",
+    "title": "Hyderabad",
+    "description": "Explore The City Of Nawabs"
+  },
+  {
+    "id": 2,
+    "image": "../Imgs/Mumbai.jpg",
+    "title": "Mumbai",
+    "description": "Explore This City Of Dreams"
+  },
+  {
+    "id": 3,
+    "image": "../Imgs/Delhi.jpg",
+    "title": "Delhi",
+    "description": "Explore The Capital Of India"
+  },
+  {
+    "id": 4,
+    "image": "../Imgs/Jaipur.jpg",
+    "title": "Jaipur",
+    "description": "Explore The Pink City"
+  },
+  {
+    "id": 5,
+    "image": "../Imgs/Agra.jpg",
+    "title": "Agra",
+    "description": "Explore The City Of Love"
+  },
+  {
+    "id": 6,
+    "image": "../Imgs/Kashmir.jpg",
+    "title": "Kashmir",
+    "description": "Explore The Heaven Of Earth"
+  }
+]

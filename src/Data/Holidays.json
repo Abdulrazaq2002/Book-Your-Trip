@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "destination": "Beach Paradise 'Goa'",
+    "description": "Enjoy a relaxing vacation by the beach.",
+    "price": "2000",
+    "images": [
+      {
+        "src": "./Imgs/holidays1.jpg",
+        "alt": "Beach Paradise"
+      },
+      {
+        "src": "./Imgs/holidays2.jpg",
+        "alt": "Beach Paradise"
+      },
+      {
+        "src": "./Imgs/holidays3.jpg",
+        "alt": "Beach Paradise"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "destination": "Mountain Adventure 'Kashmir', 'Hills Station'",
+    "description": "Embark on an exciting trekking expedition.",
+    "price": "1500",
+    "images": [
+      {
+        "src": "./Imgs/holidays4.jpg",
+        "alt": "Mountain Adventure"
+      },
+      {
+        "src": "./Imgs/holidays5.jpg",
+        "alt": "Mountain Adventure"
+      },
+      {
+        "src": "./Imgs/holidays6.jpg",
+        "alt": "Mountain Adventure"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "destination": "City Exploration 'Morden States Of India'",
+    "description": "Discover the charm of bustling cities.",
+    "price": "1800",
+    "images": [
+      {
+        "src": "./Imgs/holidays7.jpg",
+        "alt": "City Exploration"
+      },
+      {
+        "src": "./Imgs/holidays8.jpg",
+        "alt": "City Exploration"
+      },
+      {
+        "src": "./Imgs/holidays9.jpg",
+        "alt": "City Exploration"
+      }
+    ]
+  }
+]

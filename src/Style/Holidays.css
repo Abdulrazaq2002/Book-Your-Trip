@@ -1,0 +1,176 @@
+/* Holidays.css */
+body {
+  font-family: Constantia;
+}
+.holiday-packages {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  display: flex; /* Add flex display */
+  flex-wrap: wrap; /* Wrap the items to the next line */
+  justify-content: center; /* Center the items horizontally */
+  gap: 20px; /* Add spacing between the packages */
+}
+
+.package {
+  width: calc(
+    50% - 20px
+  ); /* Adjust the width to make two packages fit in a row */
+  margin-bottom: 40px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+h2 {
+  margin-left: 15px;
+  color: black;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+p {
+  margin-left: 15px;
+  color: black;
+  margin-bottom: 15px;
+  line-height: 1.5;
+}
+
+.Cost {
+  font-weight: bold;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.image-slider {
+  position: relative;
+}
+
+.selected-image-container {
+  width: 500px;
+  height: 250px;
+  margin-bottom: 20px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.selected-image {
+  border-radius: 10px;
+  width: 95%;
+  height: 95%;
+}
+
+.upcoming-images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.upcoming-image {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  opacity: 0.5;
+  transition: opacity 0.3s ease;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.upcoming-image.active {
+  opacity: 1;
+}
+
+.package-details {
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.package-details p {
+  margin-bottom: 10px;
+}
+
+.package-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #f0f0f0;
+}
+
+.package-footer p {
+  margin: 0;
+}
+button {
+  border-radius: 1px;
+  margin-left: 10%;
+  font-size: bold;
+  font-size: 20px;
+  width: 80%;
+  padding: 10px;
+  color: white;
+  background-color: red;
+  border: 4px solid red;
+}
+
+/* Responsive Styling */
+@media only screen and (max-width: 700px) {
+  .selected-image-container {
+    width: 60%;
+    height: 60%;
+    margin-left: 20%;
+  }
+
+  .selected-image {
+    width: 100%;
+    object-fit: cover;
+  }
+  .holiday-packages {
+    display: block;
+    padding: 10px;
+  }
+
+  .package {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  /* .selected-image-container {
+      height: 300px;
+    } */
+
+  .upcoming-image {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    opacity: 0.5;
+    transition: opacity 0.3s ease;
+    cursor: pointer;
+    margin: 1px;
+  }
+  h2 {
+    margin-left: 10px;
+    font-size: 20px;
+  }
+
+  p {
+    font-size: 14px;
+  }
+}
