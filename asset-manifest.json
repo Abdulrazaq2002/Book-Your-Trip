@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Book-Your-Trip/static/css/main.4bdd0bfa.css",
-    "main.js": "/Book-Your-Trip/static/js/main.90db6b60.js",
+    "main.js": "/Book-Your-Trip/static/js/main.5497ae6c.js",
     "static/js/787.8e637599.chunk.js": "/Book-Your-Trip/static/js/787.8e637599.chunk.js",
     "static/media/banner.jpg": "/Book-Your-Trip/static/media/banner.e20c51d806ffb7be6188.jpg",
     "index.html": "/Book-Your-Trip/index.html",
     "main.4bdd0bfa.css.map": "/Book-Your-Trip/static/css/main.4bdd0bfa.css.map",
-    "main.90db6b60.js.map": "/Book-Your-Trip/static/js/main.90db6b60.js.map",
+    "main.5497ae6c.js.map": "/Book-Your-Trip/static/js/main.5497ae6c.js.map",
     "787.8e637599.chunk.js.map": "/Book-Your-Trip/static/js/787.8e637599.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4bdd0bfa.css",
-    "static/js/main.90db6b60.js"
+    "static/js/main.5497ae6c.js"
   ]
 }
